@@ -1,4 +1,5 @@
-### Olá! Meu nome é Girlane da Silva Lima e atualmente estou aprendendo a linguagem JavaScript
+### Olá! Meu nome é Girlane da Silva Lima
+## Estudando: JavaScript
 
 <!--
 **GirlaneSL/GirlaneSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
