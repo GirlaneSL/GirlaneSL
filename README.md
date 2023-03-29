@@ -4,8 +4,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Girlane-Js" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228098057-94cd64e2-b02d-473a-b482-ff38ca7dbff1.svg">
   <img align="center" alt="Girlane-NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228573639-84fe5b4e-ba8e-472e-9035-e6d1d93ce51f.svg">
-
-
+  <img align="center" alt="Girlane-HTML5" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228576457-0972c3c9-7e0b-4df8-866a-45e85a96be66.svg">
+  <img align="center" alt="Girlane-CSS3" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228576691-6dabbe60-605d-47bd-a328-91f8aaff5776.svg">
 
 <!--
 **GirlaneSL/GirlaneSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
