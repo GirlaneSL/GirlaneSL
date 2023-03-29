@@ -3,6 +3,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Girlane-Js" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228098057-94cd64e2-b02d-473a-b482-ff38ca7dbff1.svg">
+  <img align="center" alt="Girlane-NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228573639-84fe5b4e-ba8e-472e-9035-e6d1d93ce51f.svg">
 
 
 
