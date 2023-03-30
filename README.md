@@ -1,4 +1,4 @@
-### Olá! Meu nome é Girlane
+### Olá! Meu nome é Girlane.
 ## Estudando: JavaScript
 
 <div style="display: inline_block"><br>
