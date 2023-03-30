@@ -1,4 +1,4 @@
-### Olá! Meu nome é Girlane da Silva Lima
+### Olá! Meu nome é Girlane
 ## Estudando: JavaScript
 
 <div style="display: inline_block"><br>
