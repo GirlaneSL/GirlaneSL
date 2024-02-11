@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Girlane.
-## Estudando: JavaScript
+## Estudando: Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Girlane-Js" height="30" width="40" src="https://user-images.githubusercontent.com/128650892/228098057-94cd64e2-b02d-473a-b482-ff38ca7dbff1.svg">
