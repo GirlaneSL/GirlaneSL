@@ -1,4 +1,4 @@
-### Olá! Meu nome é Girlane.
+### Meu nome é Girlane.
 ## Estudando: Python.
 
 <!--
