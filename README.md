@@ -1,5 +1,5 @@
-### Meu nome é Girlane
-## Estudando: Python
+### ...
+
 
 <!--
 **GirlaneSL/GirlaneSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
